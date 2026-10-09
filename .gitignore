@@ -1,0 +1,17 @@
+
+# Compiled programs
+allocator
+allocator.exe
+*.o
+
+# Python cache
+__pycache__/
+.venv/
+venv/
+
+# Generated benchmark data
+results.csv
+
+# OS/editor files
+.DS_Store
+.vscode/
